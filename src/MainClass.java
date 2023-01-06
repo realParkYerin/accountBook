@@ -7,7 +7,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		AccountDao dao = new AccountDao();
-		
+		System.out.println("git 수정 확인!!!!!!!!!!!!!");
 		//menu
 		while(true) {
 			System.out.println("====가계부====");
